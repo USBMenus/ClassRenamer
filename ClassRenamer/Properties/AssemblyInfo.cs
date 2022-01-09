@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("ClassRenamer")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("BO2 Class Renamer for Plutonium")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("HP Inc.")]
+[assembly: AssemblyCompany("kikkin_yo_azzez")]
 [assembly: AssemblyProduct("ClassRenamer")]
-[assembly: AssemblyCopyright("Copyright © HP Inc. 2022")]
+[assembly: AssemblyCopyright("kikiin_yo)_azzez")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
