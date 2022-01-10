@@ -1,2 +1,2 @@
 # ClassRenamer
- BO2 Class Renamer for Plutonium
+ BO2 Custom Class Renamer for Plutonium
